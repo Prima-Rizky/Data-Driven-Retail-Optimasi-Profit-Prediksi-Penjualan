@@ -127,7 +127,6 @@ Berikut adalah beberapa visualisasi kunci yang menyoroti wawasan bisnis utama da
 ![Kurva ROC Model Prediksi Churn](assets/roc_auc_curve.png)
 *Keterangan: Kurva ROC yang menunjukkan performa diskriminasi model prediksi churn, menggarisbawahi kemampuan untuk mengidentifikasi pelanggan berisiko tinggi.*
 
-*(**Catatan Penting:** Pastikan Anda memiliki folder `assets/` di *root* repositori GitHub Anda, dan nama file gambar di dalamnya **persis sama** dengan yang tercantum di atas.)*
 
 ## Teknologi & Library yang Digunakan
 
