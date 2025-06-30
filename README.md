@@ -67,7 +67,7 @@ Berdasarkan analisis komprehensif, beberapa temuan kunci dan wawasan bisnis yang
         * **High-Value (Klaster 2):** `Recency ~103 hari`, `Frequency ~8.6 kali`, `Monetary ~$4,773`.
         * **At-Risk (Klaster 1):** `Recency ~235 hari`, `Frequency ~4.8 kali`, `Monetary ~$1,937`.
         * **Hibernating (Klaster 3):** `Recency ~327 hari`, `Frequency ~2.6 kali`, `Monetary ~$432`.
-    * Model prediksi churn awal menunjukkan **akurasi tinggi 90%** dalam mengidentifikasi pelanggan yang `Recency`-nya > 180 hari (berisiko churn).
+    * Model prediksi churn awal menunjukkan **akurasi tinggi 99%** dalam mengidentifikasi pelanggan yang `Recency`-nya > 180 hari (berisiko churn).
 
 * **Profitabilitas Produk yang Bervariasi:**
     * **Sub-kategori paling menguntungkan:** 'Copiers', 'Phones', 'Accessories', 'Paper'.
